@@ -1,0 +1,4 @@
+P5:m1:x alias y
+P5:m1:y alias z
+P5:m1:z alias x
+P5:m2:x alias y

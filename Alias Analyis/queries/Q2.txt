@@ -1,0 +1,3 @@
+P2:m1:x alias y
+P2:m1:y alias z
+P2:m1:z alias x
